@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background: url(../IMG/Trail-Lodge.png) center center fixed no-repeat;
+	background-size: cover;
+}
+.box {
+	display: inline-block;
+	margin: 0 auto;
+	margin-left: 33vw;
+	margin-right: 33vw;
+	width: 33vw;
+	margin-top: 25vh;
+	background-color: #292826;
+	text-align: center;
+	border-radius: 10px;
+}
+.content {
+	color: #f9d342;
+}
+.text, .des {
+	color: white;
+}
+.text:hover {
+	color: #f9d342;
+}
+.form-control {
+	margin-left: 1vw;
+	margin-right: 1vw;
+	margin: 5px;
+	width: 32.5vw;
+}
